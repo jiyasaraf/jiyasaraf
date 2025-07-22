@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **advanced deep learning architectures and scalable ML systems**
 
-- 👨‍💻 All of my projects are available at [my GitHub profile](https://github.com/jiyasaraf)](my GitHub profile)
+- 👨‍💻 All of my projects are available at [https://github.com/jiyasaraf](https://github.com/jiyasaraf)
 
 - 💬 Ask me about **competitive programming, machine learning, deep learning, GenAI**
 
